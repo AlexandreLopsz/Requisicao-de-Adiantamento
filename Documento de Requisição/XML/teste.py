@@ -1,6 +1,11 @@
 from num2words import num2words
-dinheiro = 5.200,50
 
-dinheiro_string = num2words(dinheiro, to='pt_br')
+def valor_pago_por_extenso(numero):
+    #numero = "15.532,72"
+    #numero = str(numero).replace(".","").replace(",",".")
+    valor_por_extenso = num2words(numero, ordinal=False, lang='pt_BR', to='currency')
+    return valor_por_extenso
+# Converter para texto por extenso em português do Brasil
 
-print(dinheiro_string)
+# Imprimir o resultado
+print(valor_pago_por_extenso("15.532,72"))

@@ -5,29 +5,23 @@
             <numero_da_requisição>0001/2025</numero_da_requisição>
             <nome_do_responsavel>Nome</nome_do_responsavel>
             <cargo>Servidor</cargo>
-        <dados_do_solicitante>
+        </dados_do_solicitante>
         <dados_do_suprimento_de_fundos>
-            <justificativa>Realização de despesas de viagem de pequeno valor e pronto pagamento.<Justificativa>
+            <justificativa>Realização de despesas de viagem de pequeno valor e pronto pagamento.</justificativa>
             <fundamentacao_legal>Leis Municipais nº 0013/1997 e 0630/2011 </fundamentacao_legal>
             <prazo_para_prestacao_de_contas>60 Dias (Art. 2º da Lei Municipal nº 0630/2011)</prazo_para_prestacao_de_contas>
         </dados_do_suprimento_de_fundos>
         <dados_da_requisição>
-            <valor>500,00<valor>
+            <valor>500,00</valor>
             <motivo>Motivo da Requisição de Suprimento de Fundos Via Regime de Adiantamento</motivo>
         </dados_da_requisição>
-            <dados_da_autorizacao>
             <nome_do_chefe>Nome</nome_do_chefe>
             <cargo_do_chefe>Secretário</cargo_do_chefe>
-        <dados_da_autorizacao>
     </requisição_de_adiantamento>
     <recibo_do_adiantamento>
-
-
-
-    </recibo_do_adiantamento>
         <texto_1>Recebi da Prefeitura Municipa de Iomerê o valor de R$ </texto_1>
-        <texto_2>
-
-
-
+        <texto_2>500,00</texto_2>
+        <texto_3>(Quinhentos reais)</texto_3>
+        <texto_4>para realizar despesas na forma prevista nas leis municipais nº 0013/1997 e 0630/2011</texto_4>
+</recibo_do_adiantamento>
 </suprimento_de_fundos>
